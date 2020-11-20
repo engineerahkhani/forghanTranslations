@@ -21,7 +21,7 @@ const enTranslations = {
       offline: 'You are offline!',
       recommended: 'Recommended for you',
     },
-    offlineTips: {
+    player: {
       offlineTips:
         'but can download your favorite reciters or listen online by activating the streaming. it is free and unlimited.',
       loading: 'loading...',
@@ -87,9 +87,9 @@ const enTranslations = {
       viewAsBook: 'View as book',
       downloadTitle: 'download new translation',
       downloadSubtitle:
-        'please wait until download finish, don\'t close the app',
+        "please wait until download finish, don't close the app",
       readingTitle: 'reading new translation',
-      readingSubtitle: 'please wait until reding finish, don\'t close the app',
+      readingSubtitle: "please wait until reding finish, don't close the app",
       maxTranslations: 'maximum selected translation is {val}',
     },
     deleteFileAlert: {
